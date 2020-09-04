@@ -6,11 +6,8 @@ This repo allows people to see what's being made before EQX releases, contribute
 
 This repo doesn't pair the sample with material that makes them more useful such as 
 	
-	1) A Test Question
-	
-	2) Test context or explanation
-	
-	3) Test visual references to compare the sample
+1) A Test Question
+2) Test context or explanation
+3) Test visual references to compare the sample
 
 That's what EQX does - along with letting you track results and collect comments/feedback.
-
